@@ -10,13 +10,13 @@
 
   ---
 
-  ## 🚀 Projelerim
+    ## 🚀 Projelerim
 
   | Proje | Açıklama | Link |
   |-------|----------|------|
-  | 🧠 **MathMindAI** | Yapay zeka destekli matematik çözüm asistanı | [Repo](https://github.com/htsmn/MathMindAI) · [Demo](https://mathmindai.com.tr) |
-  | 📁 **Projeva** | Kurumsal proje yönetim platformu | [Repo](https://github.com/htsmn/Projeva) · [Demo](https://projeva.com.tr) |
-  | 💼 **e-FAM** | Fatura ve finans yönetim sistemi | [Repo](https://github.com/htsmn/e-FAM) |
+  | 🧠 **MathMindAI** | Yapay zeka destekli matematik çözüm asistanı | [Kaynak Kod](https://github.com/htsmn/MathMindAI) · [Canlı Site](https://mathmindai.com.tr) |
+  | 📁 **Projeva** | Kurumsal proje yönetim platformu | [Kaynak Kod](https://github.com/htsmn/Projeva) · [Canlı Site](https://projeva.com.tr) |
+  | 💼 **e-FAM** | Fatura ve finans yönetim sistemi | [Kaynak Kod](https://github.com/htsmn/e-FAM) |
 
   ---
 
